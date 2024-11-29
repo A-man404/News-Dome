@@ -40,11 +40,14 @@ Modern UI: Built with Jetpack Compose for a clean, user-friendly interface.
 
 - Contributions, issues, and feature requests are welcome!
 
-        Fork the project.
-        Create your feature branch:
-        git checkout -b feature/AmazingFeature  
-        Commit your changes:
-        git commit -m "Add some AmazingFeature"  
+  Fork the project.
+  Create your feature branch:
+
+      git checkout -b feature/AmazingFeature
+  
+ - Commit your changes:
+  
+      git commit -m "Add some AmazingFeature"  
 
 - Push to the branch:
 
