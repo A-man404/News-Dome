@@ -23,15 +23,14 @@ Modern UI: Built with Jetpack Compose for a clean, user-friendly interface.
 - Install Android Studio.
 - Obtain an API key from NewsAPI.
 - Add the API key to your CONSTANTS:
-
-    NEWS_API_KEY="your_api_key_here"  
+ 
 
 📝 To-Do List
-[] Backend Features
-[] Fetch articles using Retrofit.
-[] Add Room Database for offline caching.
-[] Add a way to change the country news
-[] improve the UI
+- [ ] Backend Features
+- [ ] Fetch articles using Retrofit.
+- [ ] Add Room Database for offline caching.
+- [ ] Add a way to change the country news
+- [ ] improve the UI
 
 # 📸 Screenshots
 
