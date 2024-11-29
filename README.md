@@ -34,7 +34,9 @@ Modern UI: Built with Jetpack Compose for a clean, user-friendly interface.
 
 # 📸 Screenshots
 
-(Include app screenshots here to showcase the UI and functionality.)
+<img src="./assets/main_page.jpg" alt="News Dome HomePage" width="180"/>
+
+<img src="./assets/item.jpg" alt="Item View" width="180"/>
 
 # 🤝 Contributing
 
@@ -54,3 +56,7 @@ Modern UI: Built with Jetpack Compose for a clean, user-friendly interface.
         git push origin feature/AmazingFeature  
         Open a pull request.
 
+## Support Me
+
+If you like this project, consider supporting me with a coffee! ☕️  
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.svg)](https://buymeacoffee.com/aman010)
