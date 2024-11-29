@@ -31,7 +31,8 @@ Modern UI: Built with Jetpack Compose for a clean, user-friendly interface.
 - [ ] Add Room Database for offline caching.
 - [ ] Add a way to change the country news
 - [ ] improve the UI
-
+- [ ] add theme to phone
+ 
 # 📸 Screenshots
 
 <img src="./assets/main_page.jpg" alt="News Dome HomePage" width="180"/>
