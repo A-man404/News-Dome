@@ -56,6 +56,9 @@ Modern UI: Built with Jetpack Compose for a clean, user-friendly interface.
         git push origin feature/AmazingFeature  
         Open a pull request.
 
+  ### Releases
+You can download the latest version of the app from the [Release v1.0](https://github.com/A-man404/News-Dome/releases/tag/v1.0).
+
 ## Support Me
 
 If you like this project, consider supporting me with a coffee! ☕️  
