@@ -35,9 +35,7 @@ Modern UI: Built with Jetpack Compose for a clean, user-friendly interface.
  
 # 📸 Screenshots
 
-<img src="./assets/main_page.jpg" alt="News Dome HomePage" width="180"/>
-
-<img src="./assets/item.jpg" alt="Item View" width="180"/>
+<img src="./assets/main_page.jpg" alt="News Dome HomePage" width="180"/> <img src="./assets/item.jpg" alt="Item View" width="180"/>
 
 # 🤝 Contributing
 
